@@ -2,7 +2,7 @@
 
 A complete full-stack solution built for the ProU Technology Recruitment Assessment.
 
-## This system demonstrates:
+### This system demonstrates:
 
 Secure portal login + signup pages
 
@@ -93,7 +93,9 @@ cd backend
 npm install
 ```
 ## 2️⃣ Start backend server
-``` npm run dev ```
+```
+npm run dev
+```
 
 ## 3️⃣ Visit the frontend
 ```
@@ -111,23 +113,20 @@ Route	Purpose
 
 ### 📸 Screenshots
 
-Add your screenshots here
-
 ## 🔹 Login Page
 
-(image)
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/e7fc8dae-0054-4e66-85c4-9275cceb980b" />
+
 
 ## 🔹 Signup Page
 
-(image)
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/68360d76-5609-4bd4-8f91-8020a5c963fd" />
+
 
 ## 🔹 Dashboard (Employees + Tasks)
 
-(image)
+<img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/ddcba6ae-b35e-42ee-b865-e2d785f54610" />
 
-## 🔹 SQLite Tables
-
-(image)
 
 ### Note:
 ✔ UI inspired by ProU official site
